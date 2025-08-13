@@ -44,9 +44,6 @@ Enter puzzle (0 for blank):
 4 0 6
 7 5 8
 
-markdown
-Copy
-Edit
 
 **Output**
 --- Solution Found (Misplaced Tiles) ---
@@ -59,12 +56,8 @@ Edit
 1 2 3
 4 5 6
 7 8 0
-yaml
-Copy
-Edit
 
 ---
-
 
 # Use Case
 This program can be used for:
